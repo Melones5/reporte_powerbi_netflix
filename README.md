@@ -57,16 +57,16 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 
 ## Índice
 
-![alt text](image.png)
+![alt text](/images/image.png)
 
 ## Dashboard General
 
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 
 ## Dashboard Argentina - 1
 
-![alt text](image-2.png)
+![alt text](/images/image-2.png)
 
 ## Dashboard Argentina - 2
 
-![alt text](image-3.png)
+![alt text](/images/image-3.png)
