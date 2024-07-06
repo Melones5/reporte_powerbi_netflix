@@ -19,3 +19,36 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 - Listed_in: hace referencia al género al que pertenece la película o TV show.
 
 ---
+
+# Problemas encontrados en el dataset
+
+## Datos sucios / desordenados
+- Existencia de 3 entradas con datos duplicados para películas.
+- Se formateo toda la columna “date_added” a tipo fecha.
+- La columna “duration” tiene un formato de datos incorrecto. Se quitó en todos los elementos “min”, dejando solamente el número correspondiente a los minutos.
+## Datos eliminados del dataset original
+- Se eliminó la columna “show_id”, debido a que no van a ser objeto de este análisis. 
+- Se eliminaron los elementos de TV shows, debido a que no van a ser objeto de este análisis.
+- Se quitó en todos los elementos “min” de la columna “duration”, dejando solamente el número correspondiente a los minutos.
+
+--- 
+
+# Según el set de datos se me ocurrió determinar:
+- Total de películas en número.
+- Cantidad de directores.
+- Cantidad de países.
+- Cantidad de categorías.
+- Top 5 directores con más películas publicadas.
+- Top 5 años con mayor cantidad de películas publicadas.
+- Total de películas por clasificación.
+
+# Relevamiento en la segunda hoja del power bi orientado a Argentina:
+- Total de películas en número de Argentina.
+- Cantidad de directores en Argentina.
+- Cantidad de películas por categoría en Argentina.
+- Top 5 directores en Argentina.
+- Top 5 categorías en Argentina.
+- Total de películas por clasificación.
+- Top 5 años con mayor cantidad de películas publicadas.
+
+
