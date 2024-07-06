@@ -42,7 +42,7 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 - Top 5 años con mayor cantidad de películas publicadas.
 - Total de películas por clasificación.
 
-# Relevamiento en la segunda hoja del power bi orientado a Argentina:
+# Relevamiento en la segunda hoja del Power BI orientado a Argentina:
 - Total de películas en número de Argentina.
 - Cantidad de directores en Argentina.
 - Cantidad de películas por categoría en Argentina.
@@ -51,4 +51,22 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 - Total de películas por clasificación.
 - Top 5 años con mayor cantidad de películas publicadas.
 
+---
 
+# Visualizaciones
+
+## Índice
+
+![alt text](image.png)
+
+## Dashboard General
+
+![alt text](image-1.png)
+
+## Dashboard Argentina - 1
+
+![alt text](image-2.png)
+
+## Dashboard Argentina - 2
+
+![alt text](image-3.png)
