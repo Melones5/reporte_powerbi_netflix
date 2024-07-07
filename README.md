@@ -74,6 +74,6 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 ---
 
 # Tecnologías utilizadas
-- <span style="color:red"> **Excel** </span> - Para el análisis preliminar de los datos. 
+- **Excel** - Para el análisis preliminar de los datos. 
 - **Power BI** - Para la limpieza y transformación efectiva de los datos a utilizar.
 - **DAX** (Data Analysis Expressions) - Para la creación de medidas personalizadas.
