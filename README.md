@@ -20,7 +20,7 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 
 ---
 
-# <span style="color:red">Problemas encontrados en el dataset</span>
+# Problemas encontrados en el dataset
 
 ## Datos sucios / desordenados
 - Existencia de 3 entradas con datos duplicados para películas.
@@ -74,6 +74,6 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 ---
 
 # Tecnologías utilizadas
-- **Excel** - Para el análisis preliminar de los datos. 
+- <span style="color:red"> **Excel** </span> - Para el análisis preliminar de los datos. 
 - **Power BI** - Para la limpieza y transformación efectiva de los datos a utilizar.
 - **DAX** (Data Analysis Expressions) - Para la creación de medidas personalizadas.
