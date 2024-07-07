@@ -20,7 +20,7 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 
 ---
 
-# Problemas encontrados en el dataset
+# <span style="color:red">Problemas encontrados en el dataset</span>
 
 ## Datos sucios / desordenados
 - Existencia de 3 entradas con datos duplicados para películas.
