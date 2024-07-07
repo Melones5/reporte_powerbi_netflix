@@ -1,7 +1,6 @@
 # Resumen de lo que contiene el dataset
 
 Este dataset contiene datos tanto de películas y tv shows disponibles en Netflix.  Cada entrada contiene datos como: tipo (movie, tv show), título, director, país de orígen, fecha que fue añadida, año de publicación, clasificación, duración, y género.
-En este caso me enfoco en el análisis sólo de las películas,  que fueron lanzadas desde 1942 a 2021.
 
 ---
 
@@ -33,7 +32,11 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 
 --- 
 
-# Según el set de datos se me ocurrió determinar:
+# Objetivo 
+
+El propósito de este análisis es visualizar a través de un dashboard simple los diferentes KPI (key performance indicator) sólo de las películas,  que fueron lanzadas desde 1942 a 2021. Tanto de manera general, como en específico del país Argentina.
+
+### Según el set de datos se me ocurrió determinar:
 - Total de películas en número.
 - Cantidad de directores.
 - Cantidad de países.
@@ -42,7 +45,7 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 - Top 5 años con mayor cantidad de películas publicadas.
 - Total de películas por clasificación.
 
-# Relevamiento en la segunda hoja del Power BI orientado a Argentina:
+### Relevamiento en la segunda hoja del Power BI orientado a Argentina:
 - Total de películas en número de Argentina.
 - Cantidad de directores en Argentina.
 - Cantidad de películas por categoría en Argentina.
@@ -50,6 +53,14 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 - Top 5 categorías en Argentina.
 - Total de películas por clasificación.
 - Top 5 años con mayor cantidad de películas publicadas.
+
+# Resultado
+
+El Dashboard interactivo, le permite a cualquier usuario utilizar los diferentes filtros y gráficos para obtener información específica y adecuada sobre el dataset en cuestión.
+
+# Duración del proyecto
+
+El proceso de análisis, limpieza y transformación de los datos tomó un total de 1 semana. El proceso de elaboración del dashboard interactivo con sus respectivos KPI's un total de 1,5 semanas.
 
 ---
 
@@ -77,3 +88,4 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 - **Excel** - Para el análisis preliminar de los datos. 
 - **Power BI** - Para la limpieza y transformación efectiva de los datos a utilizar.
 - **DAX** (Data Analysis Expressions) - Para la creación de medidas personalizadas.
+- **Figma** - Para el diseño UI
