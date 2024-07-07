@@ -70,3 +70,10 @@ En este caso me enfoco en el análisis sólo de las películas,  que fueron lanz
 ## Dashboard Argentina - 2
 
 ![alt text](/images/image-3.png)
+
+---
+
+# Tecnologías utilizadas
+- **Excel** - Para el análisis preliminar de los datos. 
+- **Power BI** - Para la limpieza y transformación efectiva de los datos a utilizar.
+- **DAX** (Data Analysis Expressions) - Para la creación de medidas personalizadas.
